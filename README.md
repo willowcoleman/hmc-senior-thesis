@@ -13,7 +13,7 @@ Date last updated: 4/25/2022
 
 - PatchPair_Preprocessing.ipynb: Jupyter Notebook for creating thermal-optical patch-pairs given a path to 128 x 128 separate LST and RGB .tif images 
 
-- lst_lookup.csv: CSV file that contains unique look-up values for denormalizing LST images, created in PatchPair_Preprocessing.ipynb 
+- lst_lookup.csv: CSV file that contains unique look-up values for denormalizing LST patch-pairs, created in PatchPair_Preprocessing.ipynb 
  
 - merge_tifs.sh
 
